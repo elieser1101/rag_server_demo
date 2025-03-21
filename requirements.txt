@@ -1,0 +1,11 @@
+openai
+langchain
+chromadb
+langchain_community
+langchain_openai
+langchain_huggingface
+
+#api reqs
+uvicorn==0.29.0
+fastapi==0.111.0
+python-multipart==0.0.9
